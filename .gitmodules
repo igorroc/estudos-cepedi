@@ -1,0 +1,6 @@
+[submodule "app_financas"]
+	path = app_financas
+	url = https://github.com/igorroc/app_financas
+[submodule "app_cronometro"]
+	path = app_cronometro
+	url = https://github.com/igorroc/app_cronometro
